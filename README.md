@@ -14,4 +14,5 @@ Try hard and admire the process!
 
 Programming languages, machine learning, artificial intelligence, databases and development of new technologies 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alestanalves&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![github stats](https://github-readme-stats.vercel.app/api?username=alestanalves&show_icons=true&theme=radical)
