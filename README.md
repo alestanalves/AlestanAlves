@@ -16,3 +16,6 @@ Programming languages, machine learning, artificial intelligence, databases and 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alestanalves&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![github stats](https://github-readme-stats.vercel.app/api?username=alestanalves&show_icons=true&theme=radical)
+
+
+<a href="https://www.linkedin.com/in/alestan-alves/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://www.instagram.com/alestan/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a><a href="https://medium.com/alestanalves"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
