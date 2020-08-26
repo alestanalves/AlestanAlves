@@ -13,3 +13,5 @@ Try hard and admire the process!
 ### Current interest
 
 Programming languages, machine learning, artificial intelligence, databases and development of new technologies 
+
+![github stats](https://github-readme-stats.vercel.app/api?username=alestan&show_icons=true&theme=radical)
