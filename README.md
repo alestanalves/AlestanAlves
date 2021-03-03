@@ -2,7 +2,7 @@
 
 I'm passionate about technologies, especially in the areas of Data Science. With 13 years old, create an online game on a local server in Java language, but exclude after a while, the local server couldn't take it. I like challenges, books, developing new technologies, using logic and analytical thinking.
 
-Most of the time, I am programming in Python which is my favorite language with it I create machine learning models and some crazy ones, sometimes I go adventuring in game development in my free time. My passion is to have fun programming and reading books and materials every day. (I really love Star Wars, RPG and sci-fi)
+Most of the time, I am programming in Python which is my favorite language with it I create machine learning models and some crazy ones, sometimes I go adventuring in game development in my free time. My passion is to have fun programming and reading books and materials every day. (I really love Star Wars, animes, RPG and sci-fi)
 
 Let's have a coffee, I'm always open to learn new things and discuss crazy ideas. You can reach me at alestanalves@gmail.com
 
