@@ -17,7 +17,7 @@ Programming languages, machine learning, artificial intelligence, databases and 
 
 ### Projects
 
-<a href="https://www.linkedin.com/in/alestan-alves/"><img width="170px" src="https://user-images.githubusercontent.com/48387196/112059528-b4a4df00-8b3a-11eb-918c-9480d371da96.png"/></a>
+<a href="https://www.linkedin.com/company/acker-code/"><img width="170px" src="https://user-images.githubusercontent.com/48387196/112059528-b4a4df00-8b3a-11eb-918c-9480d371da96.png"/></a>
 
 <div>Acker Code - Project focused on quality content on programming and technology [BR-PT]</div>
 
