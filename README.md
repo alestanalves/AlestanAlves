@@ -14,7 +14,7 @@ Let's have a coffee, I'm always open to learn new things and discuss crazy ideas
 Try hard and admire the process!
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlestanAlves&theme=dracula)](https://git.io/streak-stats)[![trophy](https://github-profile-trophy.vercel.app/?username=AlestanAlves&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlestanAlves&theme=dracula)](https://git.io/streak-stats)[![trophy](https://github-profile-trophy.vercel.app/?username=AlestanAlves&theme=dracula&column=3&margin-w=15&margin-h=15&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Current interest
 
