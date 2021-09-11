@@ -22,7 +22,7 @@ Programming languages, machine learning, artificial intelligence, databases and 
 
 ### Projects
 
-<a href="https://www.linkedin.com/company/acker-code/"><img width="170px" src="https://user-images.githubusercontent.com/48387196/112059528-b4a4df00-8b3a-11eb-918c-9480d371da96.png"/></a>
+<a href="https://www.instagram.com/ackercode"><img width="170px" src="https://user-images.githubusercontent.com/48387196/132961438-3b45862d-6d6a-48ef-8ff2-c4b130e16b15.png"/></a>
 
 - Acker Code - Project focused on quality content on programming and technology [BR-PT]
 
