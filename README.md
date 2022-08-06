@@ -7,7 +7,7 @@ I'm passionate about technology! I repair computers since I was 10 and I create 
 
 I have knowledge in: Go, Python, Pandas, Docker, Kubernetes, MongoDB, Java, MySQL, Jupyter Notebook, Keras, TensorFlow, Django, scikit-learn, servers, AWS, GCP, networks, cybersecurity, HTML, CSS, Git, Linux, MacOS, Windows and SCRUM.
 
-Most of the time, I'm programming in Python, which is my favorite language and venturing into Go and Flutter in my free time, these two languages are the ones I have been enjoying.l at the moment. My passion is to have fun programming, playing the guitar, watching anime, reading books and articles every day. 
+Most of the time, I'm programming in Python, which is my favorite language and venturing into Go and Rust in my free time, these two languages are the ones I have been enjoying.l at the moment. My passion is to have fun programming, playing the guitar, watching anime, reading books and articles every day. 
 
 Let's have a coffee, I'm always open to learn new things and discuss crazy ideas. You can reach me at alestanalves@gmail.com
 
