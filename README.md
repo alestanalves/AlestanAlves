@@ -1,4 +1,4 @@
-### Hi, I'm Alestan 👋 ( ͡^ ͜ʖ ͡^)
+# Hi, I'm Alestan 👋 ( ͡^ ͜ʖ ͡^)
 
 <a href="https://www.linkedin.com/in/alestan-alves/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://www.instagram.com/alestan/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a><a href="https://medium.com/@alestan"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
 [![Gmail Badge](https://img.shields.io/badge/-alestanalves@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alestanalves@gmail.com)](mailto:alestanalves@gmail.com)
@@ -13,11 +13,11 @@ Let's have a coffee, I'm always open to learn new things and discuss crazy ideas
 
 Try hard and admire the process!
 
-### Current interest
+## Current interest
 
 Programming languages, machine learning, artificial intelligence, databases and development of new technologies 
 
-### Project of my life
+## Project of my life
 
 <a href="https://www.instagram.com/ackercode"><img width="170px" src="https://user-images.githubusercontent.com/48387196/132961438-3b45862d-6d6a-48ef-8ff2-c4b130e16b15.png"/></a>
 
