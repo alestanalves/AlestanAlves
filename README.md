@@ -20,7 +20,7 @@ Try hard and admire the process!
     </td>
     <td style="border: 0";>
       <p>
-        ☀️ Project focused on quality content on programming, hacking and technology <a href="https://instagram.com/ackercode">Acker Code<a/>.
+        💻 Project focused on quality content on programming, hacking and technology <a href="https://instagram.com/ackercode">Acker Code<a/>.
       </p>
       <p>
         🌙 Making daily content in <a href="https://instagram.com/ackercode">@ackercode</a>, I supplement that writing with <a href="https://www.youtube.com/channel/UCERK-uaylaDOhEDn5eBGENA?sub_confirmation=1">videos on Youtube</a>.
