@@ -13,13 +13,34 @@ Let's have a coffee, I'm always open to learn new things and discuss crazy ideas
 
 Try hard and admire the process!
 
-## Current interest
-
-Programming languages, machine learning, artificial intelligence, databases and development of new technologies 
-
-## Project of my life
-
-<a href="https://www.instagram.com/ackercode"><img width="170px" src="https://user-images.githubusercontent.com/48387196/132961438-3b45862d-6d6a-48ef-8ff2-c4b130e16b15.png"/></a>
-
-- Acker Code - Project focused on quality content on programming and technology [BR-PT]
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="border: 0";>
+      <img width="400" src="https://user-images.githubusercontent.com/48387196/132961438-3b45862d-6d6a-48ef-8ff2-c4b130e16b15.png" />
+    </td>
+    <td style="border: 0";>
+      <p>
+        ☀️ Project focused on quality content on programming, hacking and technology <a href="https://instagram.com/ackercode">Acker Code<a/>.
+      </p>
+      <p>
+        🌙 Making daily content in <a href="https://instagram.com/ackercode">@ackercode</a>, I supplement that writing with <a href="https://www.youtube.com/channel/UCERK-uaylaDOhEDn5eBGENA?sub_confirmation=1">videos on Youtube</a>.
+      </p>
+      <h3>Other places you can find me</h3>
+      <ul>
+        <li>
+          🐦 <a href="https://twitter.com/acker_code">Follow me on Twitter</a>
+        </li>
+        <li>
+          📺 <a href="https://www.youtube.com/channel/UCERK-uaylaDOhEDn5eBGENA?sub_confirmation=1">Subscribe on Youtube</a>
+        </li>
+        <li>
+          📷 <a href="https://instagram.com/ackercode">Follow me on instagram</a>
+        </li>
+        <li>
+          📬 <a href="contato@ackercode.com.br">Contact-me on email</a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
