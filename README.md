@@ -23,9 +23,3 @@ Programming languages, machine learning, artificial intelligence, databases and 
 
 - Acker Code - Project focused on quality content on programming and technology [BR-PT]
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alestanalves&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![github stats](https://github-readme-stats.vercel.app/api?username=alestanalves&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alestanalves&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=alestanalves&theme=dracula&column=3&margin-w=15&margin-h=15&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
