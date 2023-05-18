@@ -11,7 +11,7 @@ I have knowledge in: Go, Python, Pandas, Docker, Kubernetes, MongoDB, Java, MySQ
 
 Most of the time, I'm programming in Python, which is my favorite language and venturing into Go and Rust in my free time, these two languages are the ones I have been enjoying.l at the moment. My passion is to have fun programming, playing the guitar, watching anime, reading books and articles every day. 
 
-Let's have a coffee, I'm always open to learn new things and discuss crazy ideas. You can reach me at contato@ackercode.com.br
+Let's have a coffee, I'm always open to learn new things and discuss crazy ideas. You can reach me at contato@ackercode.com
 
 Try hard and admire the process!
 
@@ -39,7 +39,7 @@ Try hard and admire the process!
           📷 <a href="https://instagram.com/ackercode">Follow me on instagram</a>
         </li>
         <li>
-          📬 <a href="contato@ackercode.com>Contact-me on email</a>
+          📬 <a href="contato@ackercode.com>Contact-me on email"</a>
         </li>
       </ul>
     </td>
