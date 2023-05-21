@@ -39,7 +39,7 @@ Try hard and admire the process!
           📷 <a href="https://instagram.com/ackercode">Follow me on instagram</a>
         </li>
         <li>
-          📬 <a href="contato@ackercode.com>Contact-me on email"</a>
+          📬 <a href="contato@ackercode.com">Contact-me on email"</a>
         </li>
       </ul>
     </td>
