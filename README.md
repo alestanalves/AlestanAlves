@@ -45,4 +45,3 @@ Try hard and admire the process!
     </td>
   </tr>
 </table>
-
