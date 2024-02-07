@@ -5,7 +5,7 @@
 <!-- <a href="https://www.youtube.com/channel/UCERK-uaylaDOhEDn5eBGENA?sub_confirmation=1"> <img src="https://img.shields.io/youtube/channel/subscribers/UCERK-uaylaDOhEDn5eBGENA?logo=youtube&style=for-the-badge"/></a>
  -->
 
-I'm passionate about technology! I repair computers since I was 10 and I create software since I was 13 and it was at that age that I created a copy of an online game on a local server using Java, PHP and MySQL. I like challenges, books, developing new technologies using logic and analytical thinking.
+I'm passionate about technology and hacker since childhood! I repair computers since I was 10 and I create software since I was 13 and it was at that age that I created a copy of an online game on a local server using Java, PHP and MySQL. I like challenges, books, developing new technologies using logic and analytical thinking.
 
 I have knowledge in: Python, Go, Rust, Pandas, Docker, Kubernetes, MongoDB, Java, MySQL, Jupyter Notebook, Keras, TensorFlow, Django, scikit-learn, Servers, AWS, GCP, Networks, Cybersecurity, Red Team, HTML, CSS, Git, Linux, MacOS, Windows and SCRUM.
 
