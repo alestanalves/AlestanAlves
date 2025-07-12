@@ -7,7 +7,7 @@
 
 I'm passionate about technology and hacker since childhood! I repair computers since I was 10 and I create software since I was 13 and it was at that age that I created a copy of an online game on a local server using Java, PHP and MySQL. I like challenges, books, developing new technologies using logic and analytical thinking.
 
-I have knowledge in: Python, Go, Rust, Pandas, Docker, Kubernetes, MongoDB, Java, MySQL, Jupyter Notebook, Keras, TensorFlow, Django, scikit-learn, Servers, AWS, GCP, Networks, Cybersecurity, Red Team, HTML, CSS, Git, Linux, MacOS, Windows and SCRUM.
+I have knowledge in: Python, Go, Rust, Pandas, Docker, Kubernetes, MongoDB, Java, MySQL, Jupyter Notebook, Keras, TensorFlow, Django, scikit-learn, Servers, AWS, GCP, Networks, Cybersecurity, Red Team, HTML, CSS, Git, Linux, MacOS, Windows, SCRUM and more I am passionate about computing.
 
 Most of the time, I'm programming in Python, which is my favorite language and venturing into Go and Rust in my free time, these two languages are the ones I have been enjoying.l at the moment. My passion is to have fun programming, playing the guitar, watching anime, reading books and articles every day. 
 
