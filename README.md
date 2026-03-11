@@ -15,6 +15,14 @@ Let's have a coffee, I'm always open to learn new things and discuss crazy ideas
 
 Try hard and admire the process!
 
+## Projects:
+
+- [🤖 AI Agents Example - OpenAI](https://github.com/alestanalves/ai_agents_examples) <br>
+- [🦾 Kodyx.app](https://kodyx.app) <br>
+- [👽 Python Keylogger](https://github.com/alestanalves/keylogger) <br>
+- [Send Movie Shrek Transcription WhatsApp](https://github.com/alestanalves/SendScriptWhatsAppV2) <br>
+- [Ackerdemy Guide Programming and Hacking](https://github.com/alestanalves/guia-ackercode) <br>
+
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
